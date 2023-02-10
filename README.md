@@ -24,6 +24,11 @@
 
 - [ustop](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
 
+## high-throughput screening data
+
+- [Dreher-Doyle](https://github.com/leojklarner/gauche/blob/main/data/reactions/dreher_doyle_science_aar5169.csv): yields and conditions for 3955 Pd-catalysed Buchwald–Hartwig C–N crosscouplings
+- [Perera](https://github.com/leojklarner/gauche/blob/main/data/reactions/suzuki_miyaura_data.csv): yields and conditions for 5760 Pd-catalysed Suzuki-Miyaura C-C cross-couplings
+
 ## eln data
 
 - [Open Reaction Database](https://docs.open-reaction-database.org/en/latest/index.html)
