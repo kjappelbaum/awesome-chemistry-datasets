@@ -13,8 +13,9 @@
 ## ml structure-property benchmark datasets 
 
 - [QM Datasets](http://quantum-machine.org/datasets/): QM7, QM7b, QM8, QM9, MD Trajectories
-
+- [Photoswitch Dataset](https://github.com/Ryan-Rhys/The-Photoswitch-Dataset): Curated dataset of 405 photoswitch molecules.
+- [FreeSolv](https://github.com/MobleyLab/FreeSolv): Experimental and Calculated Small Molecule Hydration Free Energies
 
 ## eln data
 
-
+- [Open Reaction Database](https://docs.open-reaction-database.org/en/latest/index.html)
