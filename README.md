@@ -14,7 +14,7 @@
 ## structures 
 
 - [zinc20](https://files.docking.org/zinc20-ML/): ZINC20 library prepared for Deep Docking-accelerated virtual screening
-- [zinc22](ZINC-22): commercially-available compounds for virtual screening
+- [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 - [Enamine HTS collection](https://enamine.net/compound-collections/screening-collection/hts-collection):  1 930 980 diverse screening compounds (37 billion molecules in 2D and 4.5 billion in 3D)
 
 
@@ -25,7 +25,7 @@
 - [FreeSolv](https://github.com/MobleyLab/FreeSolv): Experimental and Calculated Small Molecule Hydration Free Energies
 - [Limiting activity coefficients](https://polybox.ethz.ch/index.php/s/kyVOt3pwHW26PP4): for different solvent/solute pairs, used to train a SMILES-based transformer.
 - [MoleculeNet](https://moleculenet.org/datasets-1) - Benchmark suite that contains multiple datasets listed here
-- [ESol](https://pubs.acs.org/doi/10.1021/ci034243x): Water solubility data(log solubility in mols per litre) for common organic small molecules.
+- [ESol](https://doi.org/10.1021/ci034243x): Water solubility data(log solubility in mols per litre) for common organic small molecules.
 - [Lipophilicty](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/Lipophilicity.csv): Experimental results of octanol/water distribution coefficient(logD at pH 7.4).
 - [ChEBI-20](https://paperswithcode.com/dataset/chebi-20): 33,010 molecule-description pairs (for molecule captioning task)
 - [Therapeutic Data Commons](https://tdcommons.ai/overview/): ML tasks that cover small molecules and biologics, including antibodies, peptides, miRNAs, and gene editing therapies.
