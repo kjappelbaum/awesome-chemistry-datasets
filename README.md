@@ -37,6 +37,7 @@
 - [SOMAS](https://doi.org/10.6084/m9.figshare.14552697):  Experimental and calculated solubilities for small molecules. Originally proposed for the design of redox-flow batteries.
 - [Flashpoint](https://github.com/cheminfo/molecule-features/blob/main/data/flashpoint/meta.yaml#:~:text=https%3A//figshare.com/articles/dataset/Data_for_Assessing_Graph%2Dbased_Deep_Learning_Models_for_Predicting_Flash_Point/9275210): Sun et al. collected a dataset of the flashpoints of 10575 molecules from academic papers, the Gelest chemical catalogue, the DIPPR database, Lange's Handbook of Chemistry, the Hazardous Chemicals Handbook, and the PubChem database.
 - [Aquasoldb](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OVHAW8): Curation of nine open source datasets on aqueous solubility. The authors also assigned reliability groups.
+- [oechem](https://ochem.eu/home/show.do): On Feb 17 2023 OCHEM contained 3774118 records for 689 properties (with at least 50 records) collected from 20609 sources (user is granted a Creative Commons CC-BY (version 4.0) license to data submitted)
 
 ## reactions 
 
