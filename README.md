@@ -19,6 +19,7 @@
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 - [Enamine HTS collection](https://enamine.net/compound-collections/screening-collection/hts-collection):  1 930 980 diverse screening compounds (37 billion molecules in 2D and 4.5 billion in 3D)
 - [nCov-Group Data Repository](https://2019-ncovgroup.github.io/data/#dataset-downloads): SMILES, fingerprints, descriptors, and images of millions of compounds.
+- [Crystallography Open Database](http://www.crystallography.net/cod/): open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers. [They also derived SMILES for some compounds.](https://doi.org/10.1186/s13321-018-0279-6)
 
 ## ml structure-property benchmark datasets 
 
