@@ -52,3 +52,8 @@
 
 - [Open Reaction Database](https://docs.open-reaction-database.org/en/latest/index.html)
 - [AstraZeneca ELN](https://chemrxiv.org/engage/chemrxiv/article-details/6150143118be8575b030ad43)
+
+
+# related list 
+
+- [porous materials AI gym](https://github.com/SimonEnsemble/porous-material-AI-gym): open data sets for machine learning pertaining to porous materials.
