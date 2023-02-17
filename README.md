@@ -8,7 +8,9 @@
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
 - [NLM literature archive](https://ftp.ncbi.nlm.nih.gov/pub/litarch/): NLM LitArch (NLM Literature Archive) is a digital archive for books, documents, and articles in the fields of life science, medicine, and healthcare at the National Institutes of Health. Also accessible via [NCBI bookshelf](https://www.ncbi.nlm.nih.gov/books/).
 - [IUPAC Gold Book](https://goldbook.iupac.org/)
-
+- [BioRxiv XML](https://www.biorxiv.org/tdm) - Bulk access to the full text of bioRxiv articles for the purposes of text and data mining (TDM) is available via a dedicated Amazon S3 resource.
+- [MedRxiv XML](https://www.medrxiv.org/tdm) - Text and data mining is possible via dedicated Amazon S3 resource.
+- [Europe PMC](https://europepmc.org/downloads) - Bulk download of full text and SI of > 5 million articles.
 
 
 ## structures 
@@ -25,7 +27,7 @@
 - [FreeSolv](https://github.com/MobleyLab/FreeSolv): Experimental and Calculated Small Molecule Hydration Free Energies
 - [Limiting activity coefficients](https://polybox.ethz.ch/index.php/s/kyVOt3pwHW26PP4): for different solvent/solute pairs, used to train a SMILES-based transformer.
 - [MoleculeNet](https://moleculenet.org/datasets-1) - Benchmark suite that contains multiple datasets listed here
-- [ESol](https://doi.org/10.1021/ci034243x): Water solubility data(log solubility in mols per litre) for common organic small molecules.
+- [ESol](https://pubmed.ncbi.nlm.nih.gov/15154768/): Water solubility data(log solubility in mols per litre) for common organic small molecules.
 - [Lipophilicty](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/Lipophilicity.csv): Experimental results of octanol/water distribution coefficient(logD at pH 7.4).
 - [ChEBI-20](https://paperswithcode.com/dataset/chebi-20): 33,010 molecule-description pairs (for molecule captioning task)
 - [Therapeutic Data Commons](https://tdcommons.ai/overview/): ML tasks that cover small molecules and biologics, including antibodies, peptides, miRNAs, and gene editing therapies.
