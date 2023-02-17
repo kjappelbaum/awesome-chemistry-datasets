@@ -18,7 +18,7 @@
 - [zinc20](https://files.docking.org/zinc20-ML/): ZINC20 library prepared for Deep Docking-accelerated virtual screening
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 - [Enamine HTS collection](https://enamine.net/compound-collections/screening-collection/hts-collection):  1 930 980 diverse screening compounds (37 billion molecules in 2D and 4.5 billion in 3D)
-
+- [nCov-Group Data Repository](https://2019-ncovgroup.github.io/data/#dataset-downloads): SMILES, fingerprints, descriptors, and images of millions of compounds.
 
 ## ml structure-property benchmark datasets 
 
