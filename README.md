@@ -8,6 +8,7 @@
 - [IUPAC Gold Book](https://goldbook.iupac.org/)
 - [MedRxiv XML](https://www.medrxiv.org/tdm) - Text and data mining is possible via dedicated Amazon S3 resource.
 - [NLM literature archive](https://ftp.ncbi.nlm.nih.gov/pub/litarch/): NLM LitArch (NLM Literature Archive) is a digital archive for books, documents, and articles in the fields of life science, medicine, and healthcare at the National Institutes of Health. Also accessible via [NCBI bookshelf](https://www.ncbi.nlm.nih.gov/books/).
+- [OpenStax](https://openstax.org/) Free textbooks, including [Chemistry 2e](https://openstax.org/details/books/chemistry-2e), which is released under CC-BY 4.0.
 - [PubChemSTM](https://arxiv.org/abs/2212.10789): 281K chemical structure and text pairs
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
