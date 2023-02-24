@@ -11,7 +11,7 @@
 - [PubChemSTM](https://arxiv.org/abs/2212.10789): 281K chemical structure and text pairs
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
-
+- [S2ORC](https://github.com/allenai/s2orc): The Semantic Scholar Open Research Corpus.  81.1M English-language academic papers spanning many academic disciplines  largest publicly-available collection of machine-readable academic text). Released under CC BY-NC 4.0.
 ## structures 
 
 - [Crystallography Open Database](http://www.crystallography.net/cod/): open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers. [They also derived SMILES for some compounds.](https://doi.org/10.1186/s13321-018-0279-6)
