@@ -37,6 +37,7 @@
 - [Lipophilicty](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/Lipophilicity.csv): Experimental results of octanol/water distribution coefficient(logD at pH 7.4).
 - [MoleculeNet](https://moleculenet.org/datasets-1) - Benchmark suite that contains multiple datasets listed here
 - [oechem](https://ochem.eu/home/show.do): On Feb 17 2023 OCHEM contained 3774118 records for 689 properties (with at least 50 records) collected from 20609 sources (user is granted a Creative Commons CC-BY (version 4.0) license to data submitted)
+- [Papyrus](https://data.4tu.nl/articles/dataset/Papyrus_-_A_large_scale_curated_dataset_aimed_at_bioactivity_predictions/16896406/3): A large scale curated dataset aimed at bioactivity predictions. Contains multiple large publicly available datasets such as ChEMBL and ExCAPE-DB combined with smaller datasets.
 - [Photoswitch Dataset](https://github.com/Ryan-Rhys/The-Photoswitch-Dataset): Curated dataset of 405 photoswitch molecules.
 - [QM Datasets](http://quantum-machine.org/datasets/): QM7, QM7b, QM8, QM9, MD Trajectories
 - [SolProp](https://discord.com/channels/850068776544108564/1074753729955381298/1076099689184772116): Database of 1 million solvent/solute COSMO-RS calculations and 10145 experimental solvation free energies (originally published as part of [this paper](https://arxiv.org/abs/2012.11730)).
