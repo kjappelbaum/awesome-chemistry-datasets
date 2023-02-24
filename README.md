@@ -28,6 +28,7 @@
 - [Flashpoint](https://github.com/cheminfo/molecule-features/blob/main/data/flashpoint/meta.yaml#:~:text=https%3A//figshare.com/articles/dataset/Data_for_Assessing_Graph%2Dbased_Deep_Learning_Models_for_Predicting_Flash_Point/9275210): Sun et al. collected a dataset of the flashpoints of 10575 molecules from academic papers, the Gelest chemical catalogue, the DIPPR database, Lange's Handbook of Chemistry, the Hazardous Chemicals Handbook, and the PubChem database.
 - [FreeSolv](https://github.com/MobleyLab/FreeSolv): Experimental and Calculated Small Molecule Hydration Free Energies
 - [Harvard OPV](https://figshare.com/articles/dataset/HOPV15_Dataset/1610063/4): "experimental photovoltaic data from the literature, and corresponding quantum-chemical calculations performed over a range of geometries, each with quantum chemical results using a variety of density functionals and basis sets"
+- [Hydrogen Storage Materials Database](https://hydrogenmaterialssearch.govtools.us/SearchResult.aspx): data on hydrides for hydrogen storage (information such as chemical formula and hydrogen capacity)
 - [ILThermo](https://ilthermo.boulder.nist.gov/): thermodynamic and transport properties of pure ionic liquids and mixtures of them.
 - [Leffingwell Odor Dataset](https://zenodo.org/record/4085098): 3523 molecules associated with expert-labeled odor descriptors from the Leffingwell PMP 2001 database
 - [Limiting activity coefficients](https://polybox.ethz.ch/index.php/s/kyVOt3pwHW26PP4): for different solvent/solute pairs, used to train a SMILES-based transformer.
@@ -40,7 +41,6 @@
 - [SOMAS](https://doi.org/10.6084/m9.figshare.14552697):  Experimental and calculated solubilities for small molecules. Originally proposed for the design of redox-flow batteries.
 - [Therapeutic Data Commons](https://tdcommons.ai/overview/): ML tasks that cover small molecules and biologics, including antibodies, peptides, miRNAs, and gene editing therapies.
 - [ThermoML Archive](https://www.nist.gov/mml/acmd/trc/thermoml/thermoml-archive): experimental thermophysical and thermochemical property data (in ThermoML XML format)
-- [Hydrogen Storage Materials Database](https://hydrogenmaterialssearch.govtools.us/SearchResult.aspx): data on hydrides for hydrogen storage (information such as chemical formula and hydrogen capacity)
 ## reactions 
 
 - [ustop](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
