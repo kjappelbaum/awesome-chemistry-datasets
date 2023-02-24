@@ -6,6 +6,7 @@
 - [BioRxiv XML](https://www.biorxiv.org/tdm) - Bulk access to the full text of bioRxiv articles for the purposes of text and data mining (TDM) is available via a dedicated Amazon S3 resource.
 - [Europe PMC](https://europepmc.org/downloads) - Bulk download of full text and SI of > 5 million articles.
 - [IUPAC Gold Book](https://goldbook.iupac.org/)
+- [LibreText](https://chem.libretexts.org/): Open-access chemistry textbook.
 - [MedRxiv XML](https://www.medrxiv.org/tdm) - Text and data mining is possible via dedicated Amazon S3 resource.
 - [NLM literature archive](https://ftp.ncbi.nlm.nih.gov/pub/litarch/): NLM LitArch (NLM Literature Archive) is a digital archive for books, documents, and articles in the fields of life science, medicine, and healthcare at the National Institutes of Health. Also accessible via [NCBI bookshelf](https://www.ncbi.nlm.nih.gov/books/).
 - [OpenStax](https://openstax.org/) Free textbooks, including [Chemistry 2e](https://openstax.org/details/books/chemistry-2e), which is released under CC-BY 4.0.
