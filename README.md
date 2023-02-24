@@ -40,6 +40,7 @@
 - [SOMAS](https://doi.org/10.6084/m9.figshare.14552697):  Experimental and calculated solubilities for small molecules. Originally proposed for the design of redox-flow batteries.
 - [Therapeutic Data Commons](https://tdcommons.ai/overview/): ML tasks that cover small molecules and biologics, including antibodies, peptides, miRNAs, and gene editing therapies.
 - [ThermoML Archive](https://www.nist.gov/mml/acmd/trc/thermoml/thermoml-archive): experimental thermophysical and thermochemical property data (in ThermoML XML format)
+- [Hydrogen Storage Materials Database](https://hydrogenmaterialssearch.govtools.us/SearchResult.aspx): data on hydrides for hydrogen storage (information such as chemical formula and hydrogen capacity)
 ## reactions 
 
 - [ustop](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
