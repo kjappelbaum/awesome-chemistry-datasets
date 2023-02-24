@@ -21,6 +21,7 @@
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 ## ml structure-property benchmark datasets 
 
+- [Papyrus](https://data.4tu.nl/articles/dataset/Papyrus_-_A_large_scale_curated_dataset_aimed_at_bioactivity_predictions/16896406/3): A large scale curated dataset aimed at bioactivity predictions.
 - [ACNet](https://drugai.github.io/ACNet/): a benchmark for Activity Cliff Prediction, 400K Matched Molecular Pairs (MMPs) against 190 targets, including over 20K MMP-cliffs and 380K non-AC MMPs from ChEMBL (version 28).
 - [Aquasoldb](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OVHAW8): Curation of nine open source datasets on aqueous solubility. The authors also assigned reliability groups.
 - [BindingDB](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/Download.jsp): molecular recognition database, contains 2.6M data for 1.1M Compounds and 8.10K Targets (Feb 2023)
