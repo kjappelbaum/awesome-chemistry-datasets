@@ -1,4 +1,7 @@
-# awesome-chemistry-datasets
+# awesome-chemistry-datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md) and the [Code of Conduct](code_of_conduct.md).
 
 
 ## text datasets
@@ -64,3 +67,10 @@
 # related list 
 
 - [porous materials AI gym](https://github.com/SimonEnsemble/porous-material-AI-gym): open data sets for machine learning pertaining to porous materials.
+- [awesome materials informatics](https://github.com/tilde-lab/awesome-materials-informatics/edit/master/README.md): overview of software, data and initatives in the field of materials informatics 
+
+
+
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
