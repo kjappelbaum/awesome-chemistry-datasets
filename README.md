@@ -48,7 +48,7 @@
 - [ThermoML Archive](https://www.nist.gov/mml/acmd/trc/thermoml/thermoml-archive): experimental thermophysical and thermochemical property data (in ThermoML XML format)
 
 ## Target identification data
-- [Open Targets](https://github.com/opentargets/opentargets.github.io): is large-scale resource that uses human genetics and genomics data for systematic drug target identification and prioritisation.
+- [Open Targets](https://platform.opentargets.org/): is a large-scale resource that uses human genetics and genomics data for systematic drug target identification and prioritization.
 
 - [Probes & Drugs Portal](https://www.probes-drugs.org/data_sources): is an interactive, open data resource for chemical biology. Overview of libraries of bioactive compounds (e.g., ChEMBL, Guide to PHARMACOLOGY), including commercial screening libraries.
 
