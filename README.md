@@ -50,7 +50,7 @@
 ## Target identification data
 - [Open Targets](https://github.com/opentargets/opentargets.github.io): is large-scale resource that uses human genetics and genomics data for systematic drug target identification and prioritisation.
 
-- [Probes & Drugs Portal](https://www.probes-drugs.org/data_sources): is an interactive, open data resource for chemical biology containing focused libraries of bioactive compounds including commercially screening libraries.
+- [Probes & Drugs Portal](https://www.probes-drugs.org/data_sources): is an interactive, open data resource for chemical biology. Overview of libraries of bioactive compounds (e.g., ChEMBL, Guide to PHARMACOLOGY), including commercial screening libraries.
 
 - [Guide to PHARMACOLOGY](https://www.guidetopharmacology.org/): is an expert-curated resource of ligand-activity-target relationships. It includes activity data even for data with unknown bioactivity value (under CC BY-SA 4.0).
 
