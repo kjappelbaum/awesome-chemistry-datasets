@@ -52,7 +52,7 @@
 
 - [Probes & Drugs Portal](https://www.probes-drugs.org/data_sources): is an interactive, open data resource for chemical biology containing focused libraries of bioactive compounds including commercially screening libraries.
 
-- [Guide to PHARMACOLOGY](https://www.guidetopharmacology.org/): is an expert-curated resource of ligand-activity-target relationships.It include activity data even for data with unkown bioactivity value(under CC BY-SA 4.0).
+- [Guide to PHARMACOLOGY](https://www.guidetopharmacology.org/): is an expert-curated resource of ligand-activity-target relationships. It includes activity data even for data with unknown bioactivity value (under CC BY-SA 4.0).
 
 ## reactions 
 
