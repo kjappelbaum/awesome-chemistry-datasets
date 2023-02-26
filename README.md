@@ -26,7 +26,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [zinc20](https://files.docking.org/zinc20-ML/): ZINC20 library prepared for Deep Docking-accelerated virtual screening
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 - [COCONUT](https://coconut.naturalproducts.net/): is an open source project for Natural Products (NPs) storage, search and analysis.
-- [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/nmrshiftdb/media-type/html/user/anon/page/default.psml/js_pane/P-Help;jsessionid=8DC5FC88F23A161E2276E00C85C184CA): is a NMR database (web database) for organic structures and their nuclear magnetic resonance (nmr) spectra. 
+- [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/): is database for organic structures and their nuclear magnetic resonance (NMR) spectra. 
 
 ## ml structure-property benchmark datasets 
 
