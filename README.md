@@ -57,6 +57,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Guide to PHARMACOLOGY](https://www.guidetopharmacology.org/): is an expert-curated resource of ligand-activity-target relationships. It includes activity data even for data with unknown bioactivity value (under CC BY-SA 4.0).
 
+- [Drug Indications Database(DID)](https://doi.org/10.1186/s13326-016-0110-0): is a data of structured drug-indication relations. It is intended to facilitate building practical, comprehensive, integrated drug ontologies.
+
 ## reactions 
 
 - [ustop](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
