@@ -68,6 +68,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MetXBioDB Metabolite Biotransformations](https://zenodo.org/record/4247792#.Y_uK3NJBypN): a comprehensive collection of biotransformation reactions and metabolite information from the BioTransformer database. It includes the transformation and metabolism of metabolites.
 - [QSAR datasets - Meta-QSAR (phase I & II)](https://data.mendeley.com/datasets/spwgrcnjdg/1):  Data (extracted from ChEMBL) used in Olier et al. Meta-QSAR: a large-scale application of meta-learning to drug design and discovery.
 - [EPA CompTox](https://comptox.epa.gov/dashboard): is a widely used resource for chemistry, toxicity, and exposure information for hundreds of thousands of chemicals including, but not limited to, chemical properties, environmental fate, and transport, hazard, in vitro to in vivo extrapolation (IVIVE), exposure, bioactivity (each data has its license).
+- [PAMPA Permeability and NCATS dataset](https://doi.org/10.1177/24725552211017520): is a dataset of commonly employed assay to evaluate drug permeability across the cellular membrane to help in ADME prediction.
 
 ## reactions 
 
