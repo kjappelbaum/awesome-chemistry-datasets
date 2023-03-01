@@ -69,7 +69,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [QSAR datasets - Meta-QSAR (phase I & II)](https://data.mendeley.com/datasets/spwgrcnjdg/1):  Data (extracted from ChEMBL) used in Olier et al. Meta-QSAR: a large-scale application of meta-learning to drug design and discovery.
 - [EPA CompTox](https://comptox.epa.gov/dashboard): is a widely used resource for chemistry, toxicity, and exposure information for hundreds of thousands of chemicals including, but not limited to, chemical properties, environmental fate, and transport, hazard, in vitro to in vivo extrapolation (IVIVE), exposure, bioactivity (each data has its license).
 - [PAMPA Permeability and NCATS dataset](https://doi.org/10.1177/24725552211017520): is a dataset of commonly employed assay to evaluate drug permeability across the cellular membrane to help in ADME prediction.
-- [Cell Effective Permeability(Caco-2) dataset](https://doi.org/10.1021/acs.jcim.5b00642): by Wang et al. is a dataset used to measure the absorption of drugs through intenstal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
+- [Cell Effective Permeability (Caco-2) dataset](https://doi.org/10.1021/acs.jcim.5b00642): by Wang et al. is a dataset used to measure the absorption of drugs through intestinal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
 
 ## reactions 
 
