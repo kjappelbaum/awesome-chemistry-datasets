@@ -84,6 +84,9 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [AstraZeneca ELN](https://chemrxiv.org/engage/chemrxiv/article-details/6150143118be8575b030ad43)
 - [Open Reaction Database](https://docs.open-reaction-database.org/en/latest/index.html)
 
+## Collection of data
+- [Therapeutics Data Commons(PyTDC)](https://tdcommons.ai/single_pred_tasks/overview/): is a Python package that started at Harvard with AI/ML-ready datasets and ML tasks for therapeutics under MIT License(each data has its license). Original data can be found [here](https://doi.org/10.7910/DVN/21LKWG).
+
 # related list 
 
 - [porous materials AI gym](https://github.com/SimonEnsemble/porous-material-AI-gym): open data sets for machine learning pertaining to porous materials.
