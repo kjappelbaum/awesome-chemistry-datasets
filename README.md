@@ -19,6 +19,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
 - [S2ORC](https://github.com/allenai/s2orc): The Semantic Scholar Open Research Corpus.  81.1M English-language academic papers spanning many academic disciplines  largest publicly-available collection of machine-readable academic text). Released under CC BY-NC 4.0.
 - [Elsevier Corpus](https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/2): This is a corpus of 40k (40,001) open access (OA) CC-BY articles from across Elsevier’s journals represent the first cross-discipline research of data at this scale to support NLP and ML research.
+- [BioCreative V](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
+
 ## structures 
 
 - [Crystallography Open Database](http://www.crystallography.net/cod/): open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers. [They also derived SMILES for some compounds.](https://doi.org/10.1186/s13321-018-0279-6)
