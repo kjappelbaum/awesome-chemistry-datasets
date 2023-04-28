@@ -74,7 +74,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## reactions 
 
-- [ustop](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
+- [USPTO](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
 
 ## high-throughput screening data
 
