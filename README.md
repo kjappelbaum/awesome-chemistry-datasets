@@ -33,6 +33,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [ACNet](https://drugai.github.io/ACNet/): a benchmark for Activity Cliff Prediction, 400K Matched Molecular Pairs (MMPs) against 190 targets, including over 20K MMP-cliffs and 380K non-AC MMPs from ChEMBL (version 28).
 - [Aquasoldb](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OVHAW8): Curation of nine open source datasets on aqueous solubility. The authors also assigned reliability groups.
+- [BigSolDB](https://zenodo.org/record/6984601): Molecular solubility in organic solvents and water in a wide range of temperatures. It contains 830 unique molecules and 138 unique solvents. Temperatures range from 243.15K to 403.15K. Published in [this paper](https://chemrxiv.org/engage/chemrxiv/article-details/6426c1d8db1a20696e4c947b).
 - [BindingDB](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/Download.jsp): molecular recognition database, contains 2.6M data for 1.1M Compounds and 8.10K Targets (Feb 2023)
 - [ChEBI-20](https://paperswithcode.com/dataset/chebi-20): 33,010 molecule-description pairs (for molecule captioning task)
 - [ESol](https://pubmed.ncbi.nlm.nih.gov/15154768/): Water solubility data(log solubility in mols per litre) for common organic small molecules.
