@@ -28,6 +28,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 - [COCONUT](https://coconut.naturalproducts.net/): is an open source project for Natural Products (NPs) storage, search and analysis.
 - [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/): is database for organic structures and their nuclear magnetic resonance (NMR) spectra. 
+- [MoNA](https://mona.fiehnlab.ucdavis.edu/): mass spectrometry database of real and predicted spectra for known compounds.
+- [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp): mass spectrometry database with focus on natural products, contains untargeted (unlabelled) data.
 
 ## ml structure-property benchmark datasets 
 
