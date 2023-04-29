@@ -18,8 +18,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
 - [S2ORC](https://github.com/allenai/s2orc): The Semantic Scholar Open Research Corpus.  81.1M English-language academic papers spanning many academic disciplines  largest publicly-available collection of machine-readable academic text). Released under CC BY-NC 4.0.
-- [Elsevier Corpus](https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/2): This is a corpus of 40k (40,001) open access (OA) CC-BY articles from across Elsevier’s journals represent the first cross-discipline research of data at this scale to support NLP and ML research.
 - [BioCreative V](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
+- [Elsevier Corpus](https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/3): This is a corpus of 40k (40,001) open access (OA) CC-BY articles from across Elsevier’s journals represent the first cross-discipline research of data at this scale to support NLP and ML research.
 
 ## structures 
 
@@ -30,11 +30,14 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 - [COCONUT](https://coconut.naturalproducts.net/): is an open source project for Natural Products (NPs) storage, search and analysis.
 - [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/): is database for organic structures and their nuclear magnetic resonance (NMR) spectra. 
+- [MoNA](https://mona.fiehnlab.ucdavis.edu/): mass spectrometry database of real and predicted spectra for known compounds.
+- [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp): mass spectrometry database with focus on natural products, contains untargeted (unlabelled) data.
 
 ## ml structure-property benchmark datasets 
 
 - [ACNet](https://drugai.github.io/ACNet/): a benchmark for Activity Cliff Prediction, 400K Matched Molecular Pairs (MMPs) against 190 targets, including over 20K MMP-cliffs and 380K non-AC MMPs from ChEMBL (version 28).
 - [Aquasoldb](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OVHAW8): Curation of nine open source datasets on aqueous solubility. The authors also assigned reliability groups.
+- [BigSolDB](https://zenodo.org/record/6984601): Molecular solubility in organic solvents and water in a wide range of temperatures. It contains 830 unique molecules and 138 unique solvents. Temperatures range from 243.15K to 403.15K. Published in [this paper](https://chemrxiv.org/engage/chemrxiv/article-details/6426c1d8db1a20696e4c947b).
 - [BindingDB](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/Download.jsp): molecular recognition database, contains 2.6M data for 1.1M Compounds and 8.10K Targets (Feb 2023)
 - [ChEBI-20](https://paperswithcode.com/dataset/chebi-20): 33,010 molecule-description pairs (for molecule captioning task)
 - [ESol](https://pubmed.ncbi.nlm.nih.gov/15154768/): Water solubility data(log solubility in mols per litre) for common organic small molecules.
@@ -76,7 +79,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## reactions 
 
-- [ustop](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
+- [USPTO](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
 
 ## high-throughput screening data
 
