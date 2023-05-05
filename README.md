@@ -6,6 +6,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## text datasets
 
+- [BC5CDR](https://paperswithcode.com/dataset/bc5cdr):1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions (named entity recognition)
 - [BioCreative V](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
 - [BioRxiv XML](https://www.biorxiv.org/tdm) - Bulk access to the full text of bioRxiv articles for the purposes of text and data mining (TDM) is available via a dedicated Amazon S3 resource.
 - [ChemTables](https://doi.org/10.17632/g7tjh7tbrj.3): 788 chemical patent tables with labels of their content type. [Built for semantic classification of table type](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00568-2#Abs1). Licensed under CC BY NC 3.0.
