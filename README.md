@@ -14,7 +14,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [IUPAC Gold Book](https://goldbook.iupac.org/)
 - [LibreText](https://chem.libretexts.org/): Open-access chemistry textbook.
 - [MedRxiv XML](https://www.medrxiv.org/tdm) - Text and data mining is possible via dedicated Amazon S3 resource.
-- [NLM literature archive](https://ftp.ncbi.nlm.nih.gov/pub/litarch/): NLM LitArch (NLM Literature Archive) is a digital archive for books, documents, and articles in the fields of life science, medicine, and healthcare at the National Institutes of Health. Also accessible via [NCBI bookshelf](https://www.ncbi.nlm.nih.gov/books/).
+- [NLM literature archive](https://ftp.ncbi.nlm.nih.gov/pub/litarch/): NLM LitArch (NLM Literature Archive) is a digital archive for books, documents, and articles in the fields of life science, medicine, and healthcare at the National Institutes of Health. Also accessible via [NCBI bookshelf](https://www.ncbi.nlm.nih.gov/books/). See also the [NLMChem](https://ftp.ncbi.nlm.nih.gov/pub/lu/NLMChem/), a manually annotated full-text resource on chemicals in the biomedical literature. It contains 150 full-text journal articles selected both to be rich in chemical mentions and for articles where human annotation was expected to be most valuable. However, I saw NLM literature archive already on the list but wasn't sure if it included this dataset
 - [OpenStax](https://openstax.org/) Free textbooks, including [Chemistry 2e](https://openstax.org/details/books/chemistry-2e), which is released under CC-BY 4.0.
 - [PubChemSTM](https://arxiv.org/abs/2212.10789): 281K chemical structure and text pairs
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
