@@ -20,6 +20,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [PubChemSTM](https://arxiv.org/abs/2212.10789): 281K chemical structure and text pairs
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
+- [PubMedQA](https://pubmedqa.github.io/): answer research questions with yes/no/maybe using abstracts (1k expert labeled, 61.2k unlabeled and 211.3k artificially generated QA instances).
 - [S2ORC](https://github.com/allenai/s2orc): The Semantic Scholar Open Research Corpus.  81.1M English-language academic papers spanning many academic disciplines  largest publicly-available collection of machine-readable academic text). Released under CC BY-NC 4.0.
 
 ## structures 
