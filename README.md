@@ -50,8 +50,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Limiting activity coefficients](https://polybox.ethz.ch/index.php/s/kyVOt3pwHW26PP4): for different solvent/solute pairs, used to train a SMILES-based transformer.
 - [Lipophilicty](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/Lipophilicity.csv): Experimental results of octanol/water distribution coefficient(logD at pH 7.4).
 - [MoleculeNet](https://moleculenet.org/datasets-1) - Benchmark suite that contains multiple datasets listed here
-- [oechem](https://ochem.eu/home/show.do): On Feb 17 2023 OCHEM contained 3774118 records for 689 properties (with at least 50 records) collected from 20609 sources (user is granted a Creative Commons CC-BY (version 4.0) license to data submitted)
-- [Papyrus](https://data.4tu.nl/articles/dataset/Papyrus_-_A_large_scale_curated_dataset_aimed_at_bioactivity_predictions/16896406/3): A large scale curated dataset aimed at bioactivity predictions. Contains multiple large publicly available datasets such as ChEMBL and ExCAPE-DB combined with smaller datasets.
+- [oechem](https://ochem.eu/): On Feb 17 2023 OCHEM contained 3774118 records for 689 properties (with at least 50 records) collected from 20609 sources (user is granted a Creative Commons CC-BY (version 4.0) license to data submitted)
+- [Papyrus](https://doi.org/10.4121/16896406.v3): A large scale curated dataset aimed at bioactivity predictions. Contains multiple large publicly available datasets such as ChEMBL and ExCAPE-DB combined with smaller datasets.
 - [Photoswitch Dataset](https://github.com/Ryan-Rhys/The-Photoswitch-Dataset): Curated dataset of 405 photoswitch molecules.
 - [QM Datasets](http://quantum-machine.org/datasets/): QM7, QM7b, QM8, QM9, MD Trajectories
 - [SolProp](https://discord.com/channels/850068776544108564/1074753729955381298/1076099689184772116): Database of 1 million solvent/solute COSMO-RS calculations and 10145 experimental solvation free energies (originally published as part of [this paper](https://arxiv.org/abs/2012.11730)).
@@ -66,7 +66,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Pharmacology & ADME & Metabolism
 
-- [Cell Effective Permeability (Caco-2) dataset](https://doi.org/10.1021/acs.jcim.5b00642): by Wang et al. is a dataset used to measure the absorption of drugs through intestinal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
+- [Cell Effective Permeability (Caco-2) dataset](https://figshare.com/collections/ADME_Properties_Evaluation_in_Drug_Discovery_Prediction_of_Caco_2_Cell_Permeability_Using_a_Combination_of_NSGA_II_and_Boosting/2867641): by Wang et al. is a dataset used to measure the absorption of drugs through intestinal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
 - [Drug Indications Database (DID)](https://figshare.com/articles/dataset/Additional_file_1_of_Toward_a_comprehensive_drug_ontology_extraction_of_drug-indication_relations_from_diverse_information_sources/4535021): is a dataset of structured drug-indication relations. It is intended to facilitate the building of practical, comprehensive, integrated drug ontologies.
 - [EPA CompTox](https://comptox.epa.gov/dashboard): is a widely used resource for chemistry, toxicity, and exposure information for hundreds of thousands of chemicals including, but not limited to, chemical properties, environmental fate, and transport, hazard, in vitro to in vivo extrapolation (IVIVE), exposure, bioactivity (each data has its license).
 - [Guide to PHARMACOLOGY](https://www.guidetopharmacology.org/): is an expert-curated resource of ligand-activity-target relationships. It includes activity data even for data with unknown bioactivity value (under CC BY-SA 4.0).
