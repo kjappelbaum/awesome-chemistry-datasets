@@ -6,8 +6,10 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## text datasets
 
+- [BioCreative V](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
 - [BioRxiv XML](https://www.biorxiv.org/tdm) - Bulk access to the full text of bioRxiv articles for the purposes of text and data mining (TDM) is available via a dedicated Amazon S3 resource.
 - [ChemTables](https://doi.org/10.17632/g7tjh7tbrj.3): 788 chemical patent tables with labels of their content type. [Built for semantic classification of table type](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00568-2#Abs1). Licensed under CC BY NC 3.0.
+- [Elsevier Corpus](https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/3): This is a corpus of 40k (40,001) open access (OA) CC-BY articles from across Elsevier’s journals represent the first cross-discipline research of data at this scale to support NLP and ML research.
 - [Europe PMC](https://europepmc.org/downloads) - Bulk download of full text and SI of > 5 million articles.
 - [IUPAC Gold Book](https://goldbook.iupac.org/)
 - [LibreText](https://chem.libretexts.org/): Open-access chemistry textbook.
@@ -18,20 +20,18 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [PubMed central](https://www.ncbi.nlm.nih.gov/pmc/): free full-text archive
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): abstracts and outlinks
 - [S2ORC](https://github.com/allenai/s2orc): The Semantic Scholar Open Research Corpus.  81.1M English-language academic papers spanning many academic disciplines  largest publicly-available collection of machine-readable academic text). Released under CC BY-NC 4.0.
-- [BioCreative V](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-v/track-3-cdr/): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
-- [Elsevier Corpus](https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/3): This is a corpus of 40k (40,001) open access (OA) CC-BY articles from across Elsevier’s journals represent the first cross-discipline research of data at this scale to support NLP and ML research.
 
 ## structures 
 
+- [COCONUT](https://coconut.naturalproducts.net/): is an open source project for Natural Products (NPs) storage, search and analysis.
 - [Crystallography Open Database](http://www.crystallography.net/cod/): open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers. [They also derived SMILES for some compounds.](https://doi.org/10.1186/s13321-018-0279-6)
 - [Enamine HTS collection](https://enamine.net/compound-collections/screening-collection/hts-collection):  1 930 980 diverse screening compounds (37 billion molecules in 2D and 4.5 billion in 3D)
+- [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp): mass spectrometry database with focus on natural products, contains untargeted (unlabelled) data.
+- [MoNA](https://mona.fiehnlab.ucdavis.edu/): mass spectrometry database of real and predicted spectra for known compounds.
 - [nCov-Group Data Repository](https://2019-ncovgroup.github.io/data/#dataset-downloads): SMILES, fingerprints, descriptors, and images of millions of compounds.
+- [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/): is database for organic structures and their nuclear magnetic resonance (NMR) spectra. 
 - [zinc20](https://files.docking.org/zinc20-ML/): ZINC20 library prepared for Deep Docking-accelerated virtual screening
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
-- [COCONUT](https://coconut.naturalproducts.net/): is an open source project for Natural Products (NPs) storage, search and analysis.
-- [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/): is database for organic structures and their nuclear magnetic resonance (NMR) spectra. 
-- [MoNA](https://mona.fiehnlab.ucdavis.edu/): mass spectrometry database of real and predicted spectra for known compounds.
-- [GNPS](https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp): mass spectrometry database with focus on natural products, contains untargeted (unlabelled) data.
 
 ## ml structure-property benchmark datasets 
 
@@ -66,16 +66,16 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Pharmacology & ADME & Metabolism
 
-- [Guide to PHARMACOLOGY](https://www.guidetopharmacology.org/): is an expert-curated resource of ligand-activity-target relationships. It includes activity data even for data with unknown bioactivity value (under CC BY-SA 4.0).
+- [Cell Effective Permeability (Caco-2) dataset](https://doi.org/10.1021/acs.jcim.5b00642): by Wang et al. is a dataset used to measure the absorption of drugs through intestinal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
 - [Drug Indications Database (DID)](https://figshare.com/articles/dataset/Additional_file_1_of_Toward_a_comprehensive_drug_ontology_extraction_of_drug-indication_relations_from_diverse_information_sources/4535021): is a dataset of structured drug-indication relations. It is intended to facilitate the building of practical, comprehensive, integrated drug ontologies.
-- [The Metabolism and Transport Database ](https://www-metrabase.ch.cam.ac.uk/metrabaseui/pageview/download/): is a cheminformatics and bioinformatics resource that contains curated data related to human small molecule metabolism and transport.
-- [The Human Metabolome Database (HMDB)](https://hmdb.ca/): is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.
+- [EPA CompTox](https://comptox.epa.gov/dashboard): is a widely used resource for chemistry, toxicity, and exposure information for hundreds of thousands of chemicals including, but not limited to, chemical properties, environmental fate, and transport, hazard, in vitro to in vivo extrapolation (IVIVE), exposure, bioactivity (each data has its license).
+- [Guide to PHARMACOLOGY](https://www.guidetopharmacology.org/): is an expert-curated resource of ligand-activity-target relationships. It includes activity data even for data with unknown bioactivity value (under CC BY-SA 4.0).
 - [KEGG PATHWAY Database(KEGG)](https://www.genome.jp/kegg/kegg2.html): a database resource for understanding high-level functions and utilities of the biological system, such as the cell, the organism and the ecosystem, from molecular-level information, especially large-scale molecular datasets generated by genome sequencing and other high-throughput experimental technologies.
 - [MetXBioDB Metabolite Biotransformations](https://zenodo.org/record/4247792#.Y_uK3NJBypN): a comprehensive collection of biotransformation reactions and metabolite information from the BioTransformer database. It includes the transformation and metabolism of metabolites.
-- [QSAR datasets - Meta-QSAR (phase I & II)](https://data.mendeley.com/datasets/spwgrcnjdg/1):  Data (extracted from ChEMBL) used in Olier et al. Meta-QSAR: a large-scale application of meta-learning to drug design and discovery.
-- [EPA CompTox](https://comptox.epa.gov/dashboard): is a widely used resource for chemistry, toxicity, and exposure information for hundreds of thousands of chemicals including, but not limited to, chemical properties, environmental fate, and transport, hazard, in vitro to in vivo extrapolation (IVIVE), exposure, bioactivity (each data has its license).
 - [PAMPA Permeability and NCATS dataset](https://doi.org/10.1177/24725552211017520): is a dataset of commonly employed assay to evaluate drug permeability across the cellular membrane to help in ADME prediction.
-- [Cell Effective Permeability (Caco-2) dataset](https://doi.org/10.1021/acs.jcim.5b00642): by Wang et al. is a dataset used to measure the absorption of drugs through intestinal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
+- [QSAR datasets - Meta-QSAR (phase I & II)](https://data.mendeley.com/datasets/spwgrcnjdg/1):  Data (extracted from ChEMBL) used in Olier et al. Meta-QSAR: a large-scale application of meta-learning to drug design and discovery.
+- [The Human Metabolome Database (HMDB)](https://hmdb.ca/): is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.
+- [The Metabolism and Transport Database ](https://www-metrabase.ch.cam.ac.uk/metrabaseui/pageview/download/): is a cheminformatics and bioinformatics resource that contains curated data related to human small molecule metabolism and transport.
 
 ## reactions 
 
