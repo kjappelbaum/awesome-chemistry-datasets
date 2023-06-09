@@ -89,6 +89,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## reactions 
 
 - [USPTO](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
+- [RDB7](https://zenodo.org/record/6618262): Computational dataset with atom-mapped SMILES, barrier heights, and reaction enthalpies calculated at CCSD(T)-F12, which is known to be very accurate. Geometries are identified via the growing string method in this [paper](https://www.nature.com/articles/s41597-020-0460-4) while the high-quality energies are computed in this [paper](https://www.nature.com/articles/s41597-022-01529-6).
+
 
 ## high-throughput screening data
 
