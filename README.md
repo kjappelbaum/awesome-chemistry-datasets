@@ -69,6 +69,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Pharmacology & ADME & Metabolism
 
+- [ADME assays for 3521 compounds](https://github.com/molecularinformatics/Computational-ADME/blob/main/ADME_public_set_3521.csv?rgh-link-date=2023-06-16T16%3A53%3A27Z): diverse compounds selected from commercially available compound libraries (i.e. Enamine, eMolecules, WuXi LabNetwork, Mcule) and tested them against internal six ADME in vitro assays described in the [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00160)
 - [Cell Effective Permeability (Caco-2) dataset](https://figshare.com/collections/ADME_Properties_Evaluation_in_Drug_Discovery_Prediction_of_Caco_2_Cell_Permeability_Using_a_Combination_of_NSGA_II_and_Boosting/2867641): by Wang et al. is a dataset used to measure the absorption of drugs through intestinal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
 - [Clinical Trials](https://clinicaltrials.gov/ct2/resources/download): single zip file containing all study records (in XML) available on ClinicalTrials.gov
 - [Drug–Drug–Interaction (DDI)](https://paperswithcode.com/dataset/ddi): MedLine abstracts on drug-drug interactions as well as documents describing drug-drug interactions from the DrugBank database.
