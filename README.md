@@ -52,6 +52,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Leffingwell Odor Dataset](https://zenodo.org/record/4085098): 3523 molecules associated with expert-labeled odor descriptors from the Leffingwell PMP 2001 database
 - [Limiting activity coefficients](https://polybox.ethz.ch/index.php/s/kyVOt3pwHW26PP4): for different solvent/solute pairs, used to train a SMILES-based transformer.
 - [Lipophilicty](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/Lipophilicity.csv): Experimental results of octanol/water distribution coefficient(logD at pH 7.4).
+- [MD simulated monomer properties](https://acdc.alcf.anl.gov/mdf/detail/elwood_md_v1.2/): density, cohesive energy, thermal expansion, heat of vaporization, compressibility, radius of gyration, glass transition, and diffusion constant for 410 monomers
 - [MoleculeNet](https://moleculenet.org/datasets-1) - Benchmark suite that contains multiple datasets listed here
 - [oechem](https://ochem.eu/): On Feb 17 2023 OCHEM contained 3774118 records for 689 properties (with at least 50 records) collected from 20609 sources (user is granted a Creative Commons CC-BY (version 4.0) license to data submitted)
 - [Papyrus](https://doi.org/10.4121/16896406.v3): A large scale curated dataset aimed at bioactivity predictions. Contains multiple large publicly available datasets such as ChEMBL and ExCAPE-DB combined with smaller datasets.
