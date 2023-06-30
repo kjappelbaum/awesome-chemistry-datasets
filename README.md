@@ -70,6 +70,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Pharmacology & ADME & Metabolism
 
+- [SIDER dataset](http://sideeffects.embl.de/download/): The SIDER Side Effect Resource represents an effort to aggregate dispersed public information on side effects. As there is no such resource exist in machine-readable form despite the importance of research on drugs and their effects. Creation of this resource was is related to paper (Campillos, Kuhn et al., Science, 2008, 321(5886):263-6.) on the utilization of side effects for drug target prediction. Released under CC BY-NC-SA 4.0.
 - [Cell Effective Permeability (Caco-2) dataset](https://figshare.com/collections/ADME_Properties_Evaluation_in_Drug_Discovery_Prediction_of_Caco_2_Cell_Permeability_Using_a_Combination_of_NSGA_II_and_Boosting/2867641): by Wang et al. is a dataset used to measure the absorption of drugs through intestinal tissue by simulating it using a human colon epithelial cancer cell line (Caco-2).
 - [Clinical Trials](https://clinicaltrials.gov/ct2/resources/download): single zip file containing all study records (in XML) available on ClinicalTrials.gov
 - [Drug–Drug–Interaction (DDI)](https://paperswithcode.com/dataset/ddi): MedLine abstracts on drug-drug interactions as well as documents describing drug-drug interactions from the DrugBank database.
