@@ -62,6 +62,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [SOMAS](https://doi.org/10.6084/m9.figshare.14552697):  Experimental and calculated solubilities for small molecules. Originally proposed for the design of redox-flow batteries.
 - [Therapeutic Data Commons](https://tdcommons.ai/overview/): ML tasks that cover small molecules and biologics, including antibodies, peptides, miRNAs, and gene editing therapies. Original data can be found [here](https://doi.org/10.7910/DVN/21LKWG).
 - [ThermoML Archive](https://www.nist.gov/mml/acmd/trc/thermoml/thermoml-archive): experimental thermophysical and thermochemical property data (in ThermoML XML format)
+- [LIT-PCBA](https://drugdesign.unistra.fr/LIT-PCBA/): A dataset for virtual screening and machine learning. It contain 15 target sets, 7761 actives and 382674 unique inactives selected from high-confidence PubChem Bioassay data.
+
 
 ## Target identification data
 
