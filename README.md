@@ -36,6 +36,12 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [zinc20](https://files.docking.org/zinc20-ML/): ZINC20 library prepared for Deep Docking-accelerated virtual screening
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
 
+
+## molecular activity prediction benchmark datsets
+
+- [MPCD](https://github.com/bidd-group/MPCD/tree/main): a benchmark for molecular activty prediction, including both 9 Low-sample size and narrow-scaffold inhibitors datasets(LSSNS) and 30 Higher-sample size and mixed-scaffold inhibitor datasets(HSSMS), each dataset is visulised by [TMAP](https://bidd-group.github.io/MPCD/dataset/HSSMS/MoleculeACE_benchmark/space/info/CHEMBL4792_Ki.html)
+- [MoleculeACE](https://github.com/molML/MoleculeACE): a benchmark (30 HSSMS datasets in MPCD) for evaluating the predictive performance on activity cliff compounds of machine learning models.
+
 ## ml structure-property benchmark datasets 
 
 - [ACNet](https://drugai.github.io/ACNet/): a benchmark for Activity Cliff Prediction, 400K Matched Molecular Pairs (MMPs) against 190 targets, including over 20K MMP-cliffs and 380K non-AC MMPs from ChEMBL (version 28).
