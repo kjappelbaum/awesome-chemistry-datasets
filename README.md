@@ -96,6 +96,22 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [The Human Metabolome Database (HMDB)](https://hmdb.ca/): is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.
 - [The Metabolism and Transport Database ](https://www-metrabase.ch.cam.ac.uk/metrabaseui/pageview/download/): is a cheminformatics and bioinformatics resource that contains curated data related to human small molecule metabolism and transport.
 
+## Glycoscience:
+- [Glycopedia](https://www.glycopedia.eu/): a great resource and tools for glycoscience.
+- [﻿CAZypedia](http://www.cazypedia.org/): The community-driven encyclopedia of Carbohydrate-Active Enzymes
+- [IntEnz](http://www.enzyme-database.org/): (Integrated relational Enzyme database) is a freely available resource focused on enzyme nomenclature. IntEnz contains the recommendations of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB) on the nomenclature and classification of enzyme-catalyzed reactions.
+- [ExplorEnz](https://www.enzyme-database.org/): ExplorEnz contains the approved International Union of Biochemistry and Molecular Biology (IUBMB) Enzyme nomenclature and classification list. It was developed at Trinity College Dublin in 2005 as a new way to access the data of the IUBMB Enzyme Nomenclature List.
+- [ENZYME](https://enzyme.expasy.org/): is a repository of information relative to the nomenclature of enzymes.
+- [SNFG](https://www.ncbi.nlm.nih.gov/glycans/snfg.html):  Symbol Nomenclature for Glycans (SNFG). The website contains a resource on standardization in drawing glycan structures and Symbol Nomenclature. Released under CC0 license.
+- [Glycan Library](https://glycosciences.med.ic.ac.uk/data.html): a list of approximately 830 lipid-linked sequence-defined glycan probes derived from diverse natural sources or chemically synthesised 
+- [GlyGen](https://data.glygen.org/): GlyGen is a data integration and dissemination project for carbohydrate and glycoconjugate related data. GlyGen retrieves information from multiple international data sources and integrates and harmonizes this data. The GlyGen web portal allows exploration of this data and execution of unique searches that cannot be performed using integrated databases in isolation. GlyGen also provides machine-readable APIs and a SPARQL endpoint to access the integrated data. Released under CC-BY-4.0 licence.
+- [SugarBind](https://sugarbind.expasy.org/query): SugarBind covers knowledge of glycan binding of human pathogen lectins and adhesins. Information is collected by experts from articles published in peer-reviewed scientific journals. The data were compiled through an exhaustive search of literature published over the past 30 years by glycobiologists, microbiologists, and medical histologists.
+- [UniCarb-DB](http://www.unicarb-db.org/):UniCarb-DB is the glycomics fragmentation database that stores, integrates, and processes data from manually annotated ms spectra.
+- [GLIC](https://glic.glycoinfo.org/): Glycoinformatics Consortium (GLIC) is to provide a centralized source software repository for glycoscientists. 
+- [GlyCosmos](https://glycosmos.org/download): is glycoscience data based on Semantic Web technology. Glycan-related data including genes, proteins, lipids, pathways, diseases and organisms. Released under CC-BY-4.0 license.
+- [GlyTouCan](https://glytoucan.org/): is the international glycan structure repository. This repository is a freely available, uncurated registry for glycan structures that assigns globally unique accession numbers to any glycan independent of the level of information provided by the experimental method used to identify the structure(s). Any glycan structure, ranging in resolution from monosaccharide composition to fully defined structures, can be registered as long as there are no inconsistencies. Released under CC-BY-0 license.
+- [GlycoNAVI](https://glyconavi.org/): is the Carbohydrate database to support carbohydrate research. Contains glycan structures, chemical synthesis, anomeric isomer proportion, NMR spectra, activity, 3D structures, and carbohydrate-protein interaction extracted from literature. Released under CC-BY licence.
+
 ## reactions 
 
 - [USPTO](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
