@@ -93,6 +93,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [PAMPA Permeability and NCATS dataset](https://doi.org/10.1177/24725552211017520): is a dataset of commonly employed assay to evaluate drug permeability across the cellular membrane to help in ADME prediction.
 - [PsychonautWiki](https://psychonautwiki.org/wiki/Psychoactive_substance_index): catalog of mind-altering substances
 - [QSAR datasets - Meta-QSAR (phase I & II)](https://data.mendeley.com/datasets/spwgrcnjdg/1): Data (extracted from ChEMBL) used in Olier et al. Meta-QSAR: a large-scale application of meta-learning to drug design and discovery.
+- [State of Peptides 2026](https://peptahub.com/state-of-peptides-2026): open reference dataset of 156 peptide and peptide-adjacent compounds with legal/regulatory status buckets, categories, routes of administration, half-life, molecular weight, CAS numbers, peer-reviewed reference counts, and external knowledge-graph identifiers (PubChem/DrugBank/Wikidata). Downloadable as CSV and JSON under CC BY 4.0.
 - [The Human Metabolome Database (HMDB)](https://hmdb.ca/): is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.
 - [The Metabolism and Transport Database ](https://www-metrabase.ch.cam.ac.uk/metrabaseui/pageview/download/): is a cheminformatics and bioinformatics resource that contains curated data related to human small molecule metabolism and transport.
 
