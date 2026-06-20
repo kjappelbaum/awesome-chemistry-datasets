@@ -39,6 +39,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## molecular activity prediction benchmark datsets
 
+- [Bento](https://github.com/LigandPro/Bento): a protein-ligand docking benchmark covering rigid, flexible, de novo, blind, induced-fit, and covalent docking tasks.
 - [MPCD](https://github.com/bidd-group/MPCD/tree/main): a benchmark for molecular activty prediction, including both 9 Low-sample size and narrow-scaffold inhibitors datasets(LSSNS) and 30 Higher-sample size and mixed-scaffold inhibitor datasets(HSSMS), each dataset is visulised by [TMAP](https://bidd-group.github.io/MPCD/dataset/HSSMS/MoleculeACE_benchmark/space/info/CHEMBL4792_Ki.html)
 - [MoleculeACE](https://github.com/molML/MoleculeACE): a benchmark (30 HSSMS datasets in MPCD) for evaluating the predictive performance on activity cliff compounds of machine learning models.
 
