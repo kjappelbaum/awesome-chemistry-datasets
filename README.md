@@ -77,14 +77,12 @@ Contributions are very welcome—please follow the [guidelines](CONTRIBUTING.md)
 - [Flashpoint](https://github.com/cheminfo/molecule-features/blob/main/data/flashpoint/meta.yaml#:~:text=https%3A//figshare.com/articles/dataset/Data_for_Assessing_Graph%2Dbased_Deep_Learning_Models_for_Predicting_Flash_Point/9275210): Sun et al. collected a dataset of the flashpoints of 10575 molecules from academic papers, the Gelest chemical catalogue, the DIPPR database, Lange's Handbook of Chemistry, the Hazardous Chemicals Handbook, and the PubChem database.
 - [FreeSolv](https://github.com/MobleyLab/FreeSolv): Experimental and Calculated Small Molecule Hydration Free Energies
 - [Harvard OPV](https://figshare.com/articles/dataset/HOPV15_Dataset/1610063/4): "experimental photovoltaic data from the literature, and corresponding quantum-chemical calculations performed over a range of geometries, each with quantum chemical results using a variety of density functionals and basis sets"
-- [Hydrogen Storage Materials Database](https://datahub.hymarc.org/dataset/hydrogen-storage-materials-db): data on hydrogen storage materials (information such as chemical formula and hydrogen capacity)
 - [ILThermo](https://ilthermo.boulder.nist.gov/): thermodynamic and transport properties of pure ionic liquids and mixtures of them.
 - [Leffingwell Odor Dataset](https://zenodo.org/record/4085098): 3523 molecules associated with expert-labeled odor descriptors from the Leffingwell PMP 2001 database
-- [Limiting activity coefficients](https://polybox.ethz.ch/index.php/s/kyVOt3pwHW26PP4): for different solvent/solute pairs, used to train a SMILES-based transformer.
 - [Lipophilicty](https://deepchemdata.s3-us-west-1.amazonaws.com/datasets/Lipophilicity.csv): Experimental results of octanol/water distribution coefficient(logD at pH 7.4).
 - [LLNL-10k-Dataset](https://github.com/FLASK-LLNL/LLNL-10k-Dataset): DFT-calculated density and solid heat-of-formation values for approximately 10,000 CHNO molecules.
 - [MD simulated monomer properties](https://acdc.alcf.anl.gov/mdf/detail/elwood_md_v1.2/): density, cohesive energy, thermal expansion, heat of vaporization, compressibility, radius of gyration, glass transition, and diffusion constant for 410 monomers
-- [MoleculeNet](https://moleculenet.org/datasets-1): benchmark suite containing multiple datasets listed here.
+- [MoleculeNet](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html): benchmark suite with programmatic DeepChem loaders for molecular, reaction, image, and materials datasets.
 - [oechem](https://ochem.eu/): On Feb 17 2023 OCHEM contained 3774118 records for 689 properties (with at least 50 records) collected from 20609 sources (user is granted a Creative Commons CC-BY (version 4.0) license to data submitted)
 - [Papyrus](https://doi.org/10.4121/16896406.v3): large-scale curated bioactivity dataset combining ChEMBL, ExCAPE-DB, and smaller public datasets.
 - [minKLIFSAI](https://zenodo.org/records/13370507): 18.8 million activity records for 452 kinases and approximately 1.2 million unique compounds (300,000 active and 900,000 inactive), collected from PubChem in January 2023.
@@ -121,13 +119,12 @@ Contributions are very welcome—please follow the [guidelines](CONTRIBUTING.md)
 - [QSAR datasets - Meta-QSAR (phase I & II)](https://data.mendeley.com/datasets/spwgrcnjdg/1): Data (extracted from ChEMBL) used in Olier et al. Meta-QSAR: a large-scale application of meta-learning to drug design and discovery.
 - [State of Peptides 2026](https://peptahub.com/state-of-peptides-2026): open reference dataset of 156 peptide and peptide-adjacent compounds with legal/regulatory status buckets, categories, routes of administration, half-life, molecular weight, CAS numbers, peer-reviewed reference counts, and external knowledge-graph identifiers (PubChem/DrugBank/Wikidata). Downloadable as CSV and JSON under CC BY 4.0.
 - [The Human Metabolome Database (HMDB)](https://hmdb.ca/): is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.
-- [The Metabolism and Transport Database ](https://www-metrabase.ch.cam.ac.uk/metrabaseui/pageview/download/): is a cheminformatics and bioinformatics resource that contains curated data related to human small molecule metabolism and transport.
 
 ## Glycoscience
 
 ### Data and registries
 
-- [Glycan Library](https://glycosciences.med.ic.ac.uk/data.html): a list of approximately 830 lipid-linked sequence-defined glycan probes derived from diverse natural sources or chemically synthesised 
+- [Glycan Library](https://glycosciences.med.ic.ac.uk/glycanLibraryIndex.html): almost 1,000 natural and synthetic lipid-linked, sequence-defined glycan probes, including a downloadable list of the displayed collection.
 - [GlyGen](https://data.glygen.org/): GlyGen is a data integration and dissemination project for carbohydrate and glycoconjugate related data. GlyGen retrieves information from multiple international data sources and integrates and harmonizes this data. The GlyGen web portal allows exploration of this data and execution of unique searches that cannot be performed using integrated databases in isolation. GlyGen also provides machine-readable APIs and a SPARQL endpoint to access the integrated data. Released under CC-BY-4.0 licence.
 - [SugarBind](https://sugarbind.expasy.org/query): SugarBind covers knowledge of glycan binding of human pathogen lectins and adhesins. Information is collected by experts from articles published in peer-reviewed scientific journals. The data were compiled through an exhaustive search of literature published over the past 30 years by glycobiologists, microbiologists, and medical histologists.
 - [UniCarb-DB](http://www.unicarb-db.org/): glycomics fragmentation database that stores, integrates, and processes manually annotated mass spectra.
@@ -149,9 +146,9 @@ Contributions are very welcome—please follow the [guidelines](CONTRIBUTING.md)
 
 - [USPTO](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873): Reactions extracted by text-mining from United States patents published between 1976 and September 2016.
 - [RDB7](https://zenodo.org/record/6618262): Computational dataset with atom-mapped SMILES, barrier heights, and reaction enthalpies calculated at CCSD(T)-F12, which is known to be very accurate. Geometries are identified via the growing string method in this [paper](https://www.nature.com/articles/s41597-020-0460-4) while the high-quality energies are computed in this [paper](https://www.nature.com/articles/s41597-022-01529-6).
-- [Dreher-Doyle](https://github.com/leojklarner/gauche/blob/main/data/reactions/dreher_doyle_science_aar5169.csv): yields and conditions for 3955 Pd-catalysed Buchwald–Hartwig C–N crosscouplings
+- [Dreher–Doyle](https://github.com/leojklarner/gauche/blob/main/gauche/datasets/reactions/DreherDoyle.csv): yields and conditions for 3,955 Pd-catalyzed Buchwald–Hartwig C–N cross-couplings.
 - [Open Reaction Database](https://docs.open-reaction-database.org/en/stable/overview.html): openly licensed reaction records with a detailed schema for inputs, conditions, observations, workups, outcomes, and provenance.
-- [Perera](https://github.com/leojklarner/gauche/blob/main/data/reactions/suzuki_miyaura_data.csv): yields and conditions for 5760 Pd-catalysed Suzuki-Miyaura C-C cross-couplings
+- [Perera](https://github.com/leojklarner/gauche/blob/main/gauche/datasets/reactions/SuzukiMiyaura.csv): yields and conditions for 5,760 Pd-catalyzed Suzuki–Miyaura C–C cross-couplings.
 
 ## Electronic laboratory notebooks
 
@@ -159,6 +156,7 @@ Contributions are very welcome—please follow the [guidelines](CONTRIBUTING.md)
 
 ## Materials and solid state
 
+- [Digital Hydrogen Platform (DigHyd)](https://www.dighyd.org/): human-validated experimental hydrogen-storage data extracted from more than 4,000 literature sources, with more than 30,000 entries. License not stated.
 - [Materials Project](https://docs.materialsproject.org/downloading-data/how-do-i-download-the-materials-project-database): computed inorganic materials and molecular properties, structures, provenance, and contributed experimental data available through an API and open-data snapshots; an API key is required for the main API.
 - [NOMAD](https://nomad-lab.eu/nomad-lab/): FAIR repository and archive for raw and normalized computational materials-science data with APIs and metadata-based search. Published data are available under CC BY 4.0.
 
