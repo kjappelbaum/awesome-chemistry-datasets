@@ -1,24 +1,20 @@
-name: CI
+name: Check links
 
 on: [push, pull_request]
+
+permissions:
+  contents: read
 
 jobs:
   check-links:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Link Checker
-        id: lychee
-        uses: lycheeverse/lychee-action@v1.7.0
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        with:
-          fail: true
+      - name: Check out repository
+        uses: actions/checkout@v7.0.1
 
-      - name: Create Issue From File
-        if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v4
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: report, automated issue
+          args: --verbose --no-progress './**/*.md'
+          fail: true
