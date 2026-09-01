@@ -35,6 +35,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/): is database for organic structures and their nuclear magnetic resonance (NMR) spectra. 
 - [zinc20](https://files.docking.org/zinc20-ML/): ZINC20 library prepared for Deep Docking-accelerated virtual screening
 - [zinc22](https://cartblanche22.docking.org/): commercially-available compounds for virtual screening
+- [RCSB PDB](https://www.rcsb.org): open-access collection of 3D structural data of large biological molecules, specifically proteins and nucleic acids.
 
 
 ## molecular activity prediction benchmark datsets
