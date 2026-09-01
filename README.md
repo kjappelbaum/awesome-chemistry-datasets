@@ -64,6 +64,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MoleculeNet](https://moleculenet.org/datasets-1) - Benchmark suite that contains multiple datasets listed here
 - [oechem](https://ochem.eu/): On Feb 17 2023 OCHEM contained 3774118 records for 689 properties (with at least 50 records) collected from 20609 sources (user is granted a Creative Commons CC-BY (version 4.0) license to data submitted)
 - [Papyrus](https://doi.org/10.4121/16896406.v3): A large scale curated dataset aimed at bioactivity predictions. Contains multiple large publicly available datasets such as ChEMBL and ExCAPE-DB combined with smaller datasets.
+- [minKLIFSAI](https://zenodo.org/records/13370507/files/enriched_target_valid.csv.gz?download=1): 18.8 million datapoint for 452 kinase, resemble 1.2 million unique compounds, consisting of 300k active and 900K inactive
+compounds collected from PubChem(Jan 2023).
 - [Photoswitch Dataset](https://github.com/Ryan-Rhys/The-Photoswitch-Dataset): Curated dataset of 405 photoswitch molecules.
 - [QM Datasets](http://quantum-machine.org/datasets/): QM7, QM7b, QM8, QM9, MD Trajectories
 - [SolProp](https://discord.com/channels/850068776544108564/1074753729955381298/1076099689184772116): Database of 1 million solvent/solute COSMO-RS calculations and 10145 experimental solvation free energies (originally published as part of [this paper](https://arxiv.org/abs/2012.11730)).
