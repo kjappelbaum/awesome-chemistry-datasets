@@ -159,6 +159,7 @@ Contributions are very welcome—please follow the [guidelines](CONTRIBUTING.md)
 - [Digital Hydrogen Platform (DigHyd)](https://www.dighyd.org/): human-validated experimental hydrogen-storage data extracted from more than 4,000 literature sources, with more than 30,000 entries. License not stated.
 - [Materials Project](https://docs.materialsproject.org/downloading-data/how-do-i-download-the-materials-project-database): computed inorganic materials and molecular properties, structures, provenance, and contributed experimental data available through an API and open-data snapshots; an API key is required for the main API.
 - [NOMAD](https://nomad-lab.eu/nomad-lab/): FAIR repository and archive for raw and normalized computational materials-science data with APIs and metadata-based search. Published data are available under CC BY 4.0.
+- [Space Mushroom Open Materials Database](https://zenodo.org/records/23718226): Engineering material profiles (metals, polymers, ceramics, glasses, energy materials) with property values that each carry unit, test conditions and source citation; snapshot 2026-10-28. Access: browsable site (https://spacemushroom.com/materials/) and an index CSV on Zenodo; full-record bulk download not yet available. Identifiers: Zenodo DOI 10.5281/zenodo.23718226. License: CC BY 4.0.
 
 ## Related lists
 
